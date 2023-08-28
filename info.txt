@@ -1,0 +1,7 @@
+// working directory   --- staging ---- local repo ----remote repo
+
+
+git init --- intialize the repo with git
+git add . --- all files from working staging 
+git add script3.js --- only one file added to staging
+git commit -m "login implemented"
